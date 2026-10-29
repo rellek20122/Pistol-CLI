@@ -66,7 +66,7 @@ pipx install .
 
 Pistol uses:
 
-- Python 3.11 or newer
+- Python 3.11 or newer (https://www.python.org/downloads/)
 - `psutil` for process inspection
 - `cryptography` for local certificate issuance and validation
 
